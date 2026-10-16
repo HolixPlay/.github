@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 130 1000 240" width="1000" height="240" role="img" aria-label="Holix Play">
+<defs><clipPath id="c"><rect x="780" y="150" width="92" height="200"/></clipPath></defs>
+<g fill="#111114"><rect x="100" y="150" width="40" height="200"/><rect x="220" y="150" width="40" height="200"/><rect x="100" y="230" width="160" height="40"/><path fill-rule="evenodd" d="M300,250 a100,100 0 1,0 200,0 a100,100 0 1,0 -200,0 Z M340,250 a60,60 0 1,1 120,0 a60,60 0 1,1 -120,0 Z"/><rect x="540" y="150" width="40" height="200"/><rect x="540" y="310" width="120" height="40"/><rect x="700" y="150" width="40" height="200"/></g>
+<g clip-path="url(#c)" stroke="#111114" stroke-width="44"><line x1="780" y1="150" x2="880" y2="250"/><line x1="780" y1="350" x2="880" y2="250"/></g>
+<polygon points="884,150 884,350 1057,250" fill="#FF7A1A"/>
+</svg>

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Holix Play app support
+    url: https://holixplay.com/support/
+    about: Questions about the Holix Play apps — please contact support here.
+  - name: Report a security vulnerability
+    url: https://github.com/HolixPlay/.github/blob/main/SECURITY.md
+    about: Please report security issues privately by email.
